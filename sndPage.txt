@@ -1,0 +1,8 @@
+<!DOCTYPE HTML>
+<HTML>
+<head><title>Pagina secundaria</title></head>
+<body>
+Pagina redirigida correctamente
+</body>
+<p>&#X0223F A001 <img src="exclamation-button.png" alt="VERSION 1.0.0"></p>
+</HTML>
